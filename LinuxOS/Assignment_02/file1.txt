@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Saving text from master branch
+=======
+I am Manyu kumar
+Hello I am trying to add new text
+>>>>>>> Assignment_02
