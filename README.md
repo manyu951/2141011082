@@ -3,168 +3,168 @@ Wipro assignments and tasks
 
 File structure of reporostiory 
 
-├── CA-Hardware/
-│   └── Topics.txt
-├── CA-Network/
-│   └── 2141011082_CA-Network.pdf
-├── CA-Software/
-│   ├── Exercise_01/
-│   │   ├── 2141011082_Manyu kumar.pdf
-│   │   ├── socket-c/
-│   │   │   └── c/
-│   │   │       ├── client.c
-│   │   │       └── server.c
-│   │   └── socket-docker/
-│   │       └── python/
-│   │           ├── client/
-│   │           │   ├── Dockerfile
-│   │           │   └── client.py
-│   │           ├── docker-compose.yml
-│   │           └── server/
-│   │               ├── Dockerfile
-│   │               └── server.py
-│   └── Exercise_02/
-│       ├── 2141011082_Excercise.pdf
-│       ├── my-bootstrap-website/
-│       │   ├── Dockerfile
-│       │   ├── index.html
-│       │   ├── script.js
-│       │   └── styles.css
-│       └── my-website/
-│           ├── Dockerfile
-│           └── index.html
-├── Capstone_01/
-│   ├── assignment_01.png
-│   ├── file_explorer
-│   └── file_explorer.cpp
-├── Capstone_02/
-│   ├── Output.png
-│   ├── custom_shell
-│   └── custom_shell.cpp
-├── Capstone_03/
-│   ├── 2141011082_Capstone_03_Output.pdf
-│   ├── day1
-│   ├── day1.cpp
-│   ├── day2
-│   ├── day2.cpp
-│   ├── killprocess
-│   ├── killprocess.cpp
-│   ├── realtimeupdate
-│   ├── realtimeupdate.cpp
-│   ├── sorting
-│   └── sorting.cpp
-├── Capstone_04/
-│   ├── Screenshot.png
-│   ├── auth.txt
-│   ├── client
-│   ├── client.cpp
-│   ├── sample.txt
-│   ├── server
-│   └── server.cpp
-├── Capstone_05/
-│   ├── Output_01.png
-│   ├── Output_02.png
-│   ├── Output_03.png
-│   ├── Output_04.png
-│   ├── Output_05.png
-│   ├── Output_06.png
-│   ├── backup.sh
-│   ├── log_monitor.sh
-│   ├── maintenance_suite.sh
-│   └── update_cleanup.sh
-├── LSP/
-│   ├── Capstone/
-│   │   ├── Assignment_03/
-│   │   │   ├── day1
-│   │   │   ├── day1.cpp
-│   │   │   ├── day2
-│   │   │   ├── day2.cpp
-│   │   │   ├── killprocess
-│   │   │   ├── killprocess.cpp
-│   │   │   ├── realtimeupdate
-│   │   │   ├── realtimeupdate.cpp
-│   │   │   ├── sorting
-│   │   │   └── sorting.cpp
-│   │   ├── Assignment_04/
-│   │   │   ├── Screenshot.png
-│   │   │   ├── auth.txt
-│   │   │   ├── client
-│   │   │   ├── client.cpp
-│   │   │   ├── sample.txt
-│   │   │   ├── server
-│   │   │   └── server.cpp
-│   │   └── Assignment_05/
-│   │       └── maintenance_scripts/
-│   │           ├── Output_01.png
-│   │           ├── Output_02.png
-│   │           ├── Output_03.png
-│   │           ├── Output_04.png
-│   │           ├── Output_05.png
-│   │           ├── Output_06.png
-│   │           ├── backup.sh
-│   │           ├── log_monitor.sh
-│   │           ├── maintenance_suite.sh
-│   │           └── update_cleanup.sh
-│   ├── task_02/
-│   │   ├── 01.png
-│   │   └── 02.png
-│   ├── task_06/
-│   │   └── Task-6.pdf
-│   ├── task_07/
-│   │   └── Segmentation and Paging.pptx
-│   ├── task_08/
-│   │   ├── Output.png
-│   │   ├── data.txt
-│   │   ├── read
-│   │   └── read.c
-│   ├── task_09/
-│   │   ├── Output.png
-│   │   ├── permission
-│   │   └── permission.c
-│   ├── task_11/
-│   │   ├── Output.png
-│   │   ├── reader
-│   │   ├── reader.c
-│   │   ├── writer
-│   │   └── writer.c
-│   ├── task_12/
-│   │   ├── Output.png
-│   │   ├── client
-│   │   ├── server
-│   │   ├── socketClient.cpp
-│   │   └── socketServer.cpp
-│   ├── task_13/
-│   │   ├── Output.png
-│   │   ├── client
-│   │   ├── server
-│   │   ├── udpclient.cpp
-│   │   └── udpserver.cpp
-│   ├── task_14/
-│   │   ├── arch/
-│   │   │   └── x86/
-│   │   │       └── entry/
-│   │   │           └── syscalls/
-│   │   │               └── syscall_64.tbl
-│   │   ├── include/
-│   │   │   └── linux/
-│   │   │       └── syscalls.h
-│   │   ├── kernel/
-│   │   │   ├── reverse.c
-│   │   │   └── reverse.o
-│   │   ├── reverse.cpp
-│   │   └── test_user/
-│   │       ├── test_reverse
-│   │       └── test_reverse.c
-│   ├── task_15/
-│   │   ├── user_space
-│   │   └── user_space.c
-│   └── task_16/
-│       ├── sum
-│       ├── sum.c
-│       └── task16.png
-└── LinuxOS/
-    ├── Assignment_01/
-    │   ├── Assignment-01.png
-    │   └── login.sh
-    └── Assignment_02/
-        └── 2141011082_Assignment_02.pdf
+- CA-Hardware
+  - Topics.txt
+- CA-Network
+  - 2141011082_CA-Network.pdf
+- CA-Software
+  - Exercise_01
+    - 2141011082_Manyu kumar.pdf
+    - socket-c
+      - c
+        - client.c
+        - server.c
+    - socket-docker
+      - python
+        - client
+          - Dockerfile
+          - client.py
+        - docker-compose.yml
+        - server
+          - Dockerfile
+          - server.py
+  - Exercise_02
+    - 2141011082_Excercise.pdf
+    - my-bootstrap-website
+      - Dockerfile
+      - index.html
+      - script.js
+      - styles.css
+    - my-website
+      - Dockerfile
+      - index.html
+- Capstone_01
+  - assignment_01.png
+  - file_explorer
+  - file_explorer.cpp
+- Capstone_02
+  - Output.png
+  - custom_shell
+  - custom_shell.cpp
+- Capstone_03
+  - 2141011082_Capstone_03_Output.pdf
+  - day1
+  - day1.cpp
+  - day2
+  - day2.cpp
+  - killprocess
+  - killprocess.cpp
+  - realtimeupdate
+  - realtimeupdate.cpp
+  - sorting
+  - sorting.cpp
+- Capstone_04
+  - Screenshot from 2025-04-30 17-07-03.png
+  - auth.txt
+  - client
+  - client.cpp
+  - sample.txt
+  - server
+  - server.cpp
+- Capstone_05
+  - Output_01.png
+  - Output_02.png
+  - Output_03.png
+  - Output_04.png
+  - Output_05.png
+  - Output_06.png
+  - backup.sh
+  - log_monitor.sh
+  - maintenance_suite.sh
+  - update_cleanup.sh
+- LSP
+  - Capstone
+    - Assignment_03
+      - day1
+      - day1.cpp
+      - day2
+      - day2.cpp
+      - killprocess
+      - killprocess.cpp
+      - realtimeupdate
+      - realtimeupdate.cpp
+      - sorting
+      - sorting.cpp
+    - Assignment_04
+      - Screenshot from 2025-04-30 17-07-03.png
+      - auth.txt
+      - client
+      - client.cpp
+      - sample.txt
+      - server
+      - server.cpp
+    - Assignment_05
+      - maintenance_scripts
+        - Output_01.png
+        - Output_02.png
+        - Output_03.png
+        - Output_04.png
+        - Output_05.png
+        - Output_06.png
+        - backup.sh
+        - log_monitor.sh
+        - maintenance_suite.sh
+        - update_cleanup.sh
+  - task_02
+    - 01.png
+    - 02.png
+  - task_06
+    - Task-6.pdf
+  - task_07
+    - Segmentation and Paging.pptx
+  - task_08
+    - Output.png
+    - data.txt
+    - read
+    - read.c
+  - task_09
+    - Output.png
+    - permission
+    - permission.c
+  - task_11
+    - Output.png
+    - reader
+    - reader.c
+    - writer
+    - writer.c
+  - task_12
+    - Output.png
+    - client
+    - server
+    - socketClient.cpp
+    - socketServer.cpp
+  - task_13
+    - Output.png
+    - client
+    - server
+    - udpclient.cpp
+    - udpserver.cpp
+  - task_14
+    - arch
+      - x86
+        - entry
+          - syscalls
+            - syscall_64.tbl
+    - include
+      - linux
+        - syscalls.h
+    - kernel
+      - reverse.c
+      - reverse.o
+    - reverse.cpp
+    - test_user
+      - test_reverse
+      - test_reverse.c
+  - task_15
+    - user_space
+    - user_space.c
+  - task_16
+    - sum
+    - sum.c
+    - task16.png
+- LinuxOS
+  - Assignment_01
+    - Assignment-01.png
+    - login.sh
+  - Assignment_02
+    - 2141011082_Assignment_02.pdf
