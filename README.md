@@ -33,6 +33,9 @@ File structure of reporostiory
     - my-website
       - Dockerfile
       - index.html
+  - Assigenment_01.pdf
+  - Assigenment_02.pdf
+  - Assigenment_0.pdf
 - Capstone_01
   - assignment_01.png
   - file_explorer
